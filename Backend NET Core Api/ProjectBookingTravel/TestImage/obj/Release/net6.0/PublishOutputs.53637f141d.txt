@@ -1,0 +1,11 @@
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\TestImage.exe
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\TestImage.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\TestImage.deps.json
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\TestImage.runtimeconfig.json
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\TestImage.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\TestImage\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

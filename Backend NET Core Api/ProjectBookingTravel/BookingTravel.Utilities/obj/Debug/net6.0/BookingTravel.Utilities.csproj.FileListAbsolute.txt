@@ -1,0 +1,12 @@
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\bin\Debug\net6.0\BookingTravel.Utilities.deps.json
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\bin\Debug\net6.0\BookingTravel.Utilities.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\bin\Debug\net6.0\BookingTravel.Utilities.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\BookingTravel.Utilities.csproj.AssemblyReference.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\BookingTravel.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\BookingTravel.Utilities.AssemblyInfoInputs.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\BookingTravel.Utilities.AssemblyInfo.cs
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\BookingTravel.Utilities.csproj.CoreCompileInputs.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\BookingTravel.Utilities.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\refint\BookingTravel.Utilities.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\BookingTravel.Utilities.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Utilities\obj\Debug\net6.0\ref\BookingTravel.Utilities.dll

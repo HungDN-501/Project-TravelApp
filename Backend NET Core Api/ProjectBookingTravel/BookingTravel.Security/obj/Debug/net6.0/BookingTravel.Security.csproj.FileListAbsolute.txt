@@ -1,0 +1,12 @@
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\bin\Debug\net6.0\BookingTravel.Security.deps.json
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\bin\Debug\net6.0\BookingTravel.Security.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\bin\Debug\net6.0\BookingTravel.Security.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\BookingTravel.Security.csproj.AssemblyReference.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\BookingTravel.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\BookingTravel.Security.AssemblyInfoInputs.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\BookingTravel.Security.AssemblyInfo.cs
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\BookingTravel.Security.csproj.CoreCompileInputs.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\BookingTravel.Security.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\refint\BookingTravel.Security.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\BookingTravel.Security.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Security\obj\Debug\net6.0\ref\BookingTravel.Security.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "lNB2rTzKpWWK1VpP4ronYFu85Ojcy38gs29pC5NkbzM=",
+  "Source": "TestImage",
+  "BasePath": "_content/TestImage",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestImage\\wwwroot",
+      "Source": "TestImage",
+      "ContentRoot": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\TestImage\\wwwroot\\",
+      "BasePath": "_content/TestImage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\TestImage\\wwwroot\\images\\image1.jpg",
+      "SourceId": "TestImage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\TestImage\\wwwroot\\",
+      "BasePath": "_content/TestImage",
+      "RelativePath": "images/image1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image1.jpg"
+    },
+    {
+      "Identity": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\TestImage\\wwwroot\\images\\image2.jpg",
+      "SourceId": "TestImage",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\TestImage\\wwwroot\\",
+      "BasePath": "_content/TestImage",
+      "RelativePath": "images/image2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image2.jpg"
+    }
+  ]
+}

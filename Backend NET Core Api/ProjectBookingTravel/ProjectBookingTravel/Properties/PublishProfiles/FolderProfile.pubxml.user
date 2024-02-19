@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publish API\Travel</_PublishTargetUrl>
+    <History>True|2024-02-16T13:02:34.9515185Z;True|2024-02-16T20:02:32.4344044+07:00;True|2024-02-16T11:29:24.0746148+07:00;True|2024-02-15T21:16:06.9121184+07:00;True|2024-02-15T00:41:58.7316143+07:00;True|2024-02-13T22:14:50.2825808+07:00;True|2024-02-13T22:14:45.9340778+07:00;True|2024-02-12T23:00:22.1804567+07:00;True|2024-02-12T22:28:28.1959788+07:00;True|2024-02-12T16:58:45.1626390+07:00;True|2024-02-12T01:32:14.5300717+07:00;True|2024-02-11T11:42:33.4680152+07:00;True|2024-02-11T11:42:10.6280226+07:00;True|2024-02-11T11:33:38.7385555+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

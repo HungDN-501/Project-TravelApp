@@ -1,0 +1,397 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\ProjectBookingTravel\\ProjectBookingTravel.csproj": {}
+  },
+  "projects": {
+    "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.BUS\\BookingTravel.BUS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.BUS\\BookingTravel.BUS.csproj",
+        "projectName": "BookingTravel.BUS",
+        "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.BUS\\BookingTravel.BUS.csproj",
+        "packagesPath": "C:\\Users\\dhung\\.nuget\\packages\\",
+        "outputPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.BUS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.DAL\\BookingTravel.DAL.csproj": {
+                "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.DAL\\BookingTravel.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.DAL\\BookingTravel.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.DAL\\BookingTravel.DAL.csproj",
+        "projectName": "BookingTravel.DAL",
+        "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.DAL\\BookingTravel.DAL.csproj",
+        "packagesPath": "C:\\Users\\dhung\\.nuget\\packages\\",
+        "outputPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Models\\BookingTravel.Models.csproj": {
+                "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Models\\BookingTravel.Models.csproj"
+              },
+              "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Security\\BookingTravel.Security.csproj": {
+                "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Security\\BookingTravel.Security.csproj"
+              },
+              "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj": {
+                "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Models\\BookingTravel.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Models\\BookingTravel.Models.csproj",
+        "projectName": "BookingTravel.Models",
+        "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Models\\BookingTravel.Models.csproj",
+        "packagesPath": "C:\\Users\\dhung\\.nuget\\packages\\",
+        "outputPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj": {
+                "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Security\\BookingTravel.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Security\\BookingTravel.Security.csproj",
+        "projectName": "BookingTravel.Security",
+        "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Security\\BookingTravel.Security.csproj",
+        "packagesPath": "C:\\Users\\dhung\\.nuget\\packages\\",
+        "outputPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj",
+        "projectName": "BookingTravel.Utilities",
+        "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj",
+        "packagesPath": "C:\\Users\\dhung\\.nuget\\packages\\",
+        "outputPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\ProjectBookingTravel\\ProjectBookingTravel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\ProjectBookingTravel\\ProjectBookingTravel.csproj",
+        "projectName": "ProjectBookingTravel",
+        "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\ProjectBookingTravel\\ProjectBookingTravel.csproj",
+        "packagesPath": "C:\\Users\\dhung\\.nuget\\packages\\",
+        "outputPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\ProjectBookingTravel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.BUS\\BookingTravel.BUS.csproj": {
+                "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.BUS\\BookingTravel.BUS.csproj"
+              },
+              "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj": {
+                "projectPath": "D:\\NET tự học\\Website ban hang - ASP NET MVC\\ProjectBookingTravel\\BookingTravel.Utilities\\BookingTravel.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

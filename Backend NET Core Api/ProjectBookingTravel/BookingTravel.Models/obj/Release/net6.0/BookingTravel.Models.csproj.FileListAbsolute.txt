@@ -1,0 +1,15 @@
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\bin\Release\net6.0\BookingTravel.Models.deps.json
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\bin\Release\net6.0\BookingTravel.Models.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\bin\Release\net6.0\BookingTravel.Models.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\bin\Release\net6.0\BookingTravel.Utilities.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\bin\Release\net6.0\BookingTravel.Utilities.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.csproj.AssemblyReference.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.AssemblyInfoInputs.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.AssemblyInfo.cs
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.csproj.CoreCompileInputs.cache
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.csproj.CopyComplete
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\refint\BookingTravel.Models.dll
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\BookingTravel.Models.pdb
+D:\NET tự học\Website ban hang - ASP NET MVC\ProjectBookingTravel\BookingTravel.Models\obj\Release\net6.0\ref\BookingTravel.Models.dll
