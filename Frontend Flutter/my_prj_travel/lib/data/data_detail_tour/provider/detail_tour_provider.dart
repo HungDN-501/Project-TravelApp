@@ -11,7 +11,7 @@ class DetailTourDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.get(
         Uri.parse(
-          'http://192.168.1.184:8026/api/TouristAttraction/GetTouristAttractionRandom',
+          'http://localhost:8081/api/TouristAttraction/GetTouristAttractionRandom',
         ),
         headers: {'Content-Type': 'application/json'},
       );
@@ -38,7 +38,7 @@ class DetailTourDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.get(
         Uri.parse(
-          'http://192.168.1.184:8026/api/TouristAttraction/GetTouristAttractionMostStars',
+          'http://localhost:8081/api/TouristAttraction/GetTouristAttractionMostStars',
         ),
         headers: {'Content-Type': 'application/json'},
       );
@@ -65,7 +65,7 @@ class DetailTourDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/TouristAttraction/SearchTouristAttraction',
+          'http://localhost:8081/api/TouristAttraction/SearchTouristAttraction',
         ),
         body: jsonEncode(body),
         headers: {'Content-Type': 'application/json'},
@@ -93,7 +93,7 @@ class DetailTourDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/TouristAttraction/GetMarkTourById',
+          'http://localhost:8081/api/TouristAttraction/GetMarkTourById',
         ),
         body: jsonEncode(idAcc),
         headers: {'Content-Type': 'application/json'},
@@ -121,7 +121,7 @@ class DetailTourDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/TouristAttraction/HandleMarkTourById',
+          'http://localhost:8081/api/TouristAttraction/HandleMarkTourById',
         ),
         body: jsonEncode(body),
         headers: {'Content-Type': 'application/json'},

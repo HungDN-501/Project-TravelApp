@@ -9,7 +9,7 @@ class BillBokingProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/bill/Add',
+          'http://localhost:8081/api/bill/Add',
         ),
         body: jsonEncode(body),
         headers: {'Content-Type': 'application/json'},
@@ -28,7 +28,7 @@ class BillBokingProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.get(
         Uri.parse(
-          'http://192.168.1.184:8026/api/bill/GetBillTourById?idAcc=$idAcc',
+          'http://localhost:8081/api/bill/GetBillTourById?idAcc=$idAcc',
         ),
         headers: {'Content-Type': 'application/json'},
       );

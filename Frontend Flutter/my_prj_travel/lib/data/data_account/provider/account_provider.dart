@@ -9,7 +9,7 @@ class AccountDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/Login/login',
+          'http://localhost:8081/api/Login/login',
         ),
         body: jsonEncode(body),
         headers: {'Content-Type': 'application/json'},
@@ -21,7 +21,7 @@ class AccountDataProvider {
 
       // print("Status API : ${res.statusCode}");
       // print("Result API : ${res.reasonPhrase}");
-      // print("Body API : ${res.body}");
+      print("Body API : ${res.body}");
 
       // lấy thông tin nội dung
       return res.body;
@@ -37,7 +37,7 @@ class AccountDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/account/Add',
+          'http://localhost:8081/api/account/Add',
         ),
         body: jsonEncode(body),
         headers: {'Content-Type': 'application/json'},
@@ -65,7 +65,7 @@ class AccountDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/account/CheckEmail',
+          'http://localhost:8081/api/account/CheckEmail',
         ),
         body: jsonEncode(body),
         headers: {'Content-Type': 'application/json'},
@@ -93,7 +93,7 @@ class AccountDataProvider {
       // Lấy dữ liệu Json từ Api trả về
       final res = await http.post(
         Uri.parse(
-          'http://192.168.1.184:8026/api/account/UpdatePassword',
+          'http://localhost:8081/api/account/UpdatePassword',
         ),
         body: jsonEncode(body),
         headers: {'Content-Type': 'application/json'},
